@@ -1,34 +1,35 @@
 [
     {
         "id": "0",
-        "name": "Breaking News"
+        "name": "All News"
     },
     {
         "id": "1",
-        "name": "Regular News"
+        "name": "Breaking News"
     },
     {
         "id": "2",
-        "name": "International News"
+        "name": "Regular News"
     },
     {
         "id": "3",
-        "name": "Sports"
+        "name": "International News"
     },
     {
         "id": "4",
-        "name": "Entertainment"
+        "name": "Sports"
     },
     {
         "id": "5",
-        "name": "Culture"
+        "name": "Entertainment"
     },
     {
         "id": "6",
-        "name": "Arts"
+        "name": "Culture"
     },
     {
         "id": "7",
-        "name": "All News"
+        "name": "Arts"
     }
+    
 ]
